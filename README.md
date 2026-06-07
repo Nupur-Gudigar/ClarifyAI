@@ -5,13 +5,13 @@
 "Because Googling things is so 2020."
 
 <br />
-[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1262153053/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1262153053/week.md)
 
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://langchain.com)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)](https://console.groq.com)
 [![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)](https://gradio.app)
 [![AWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Python](https://img.shields.io/badge/Python_3.14-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Image of my-views-counter](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/svg/1262153053/badge.svg)](https://github.com/Nupur-Gudigar/my-views-counter/blob/master/readme/1262153053/week.md)
 
 <br />
 
