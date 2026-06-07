@@ -48,4 +48,4 @@ demo = gr.Interface(
     description="Enter any term and get a concise explanation tailored to your background"
 )
 
-demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
+demo.launch(server_name="0.0.0.0", server_port=8000)
